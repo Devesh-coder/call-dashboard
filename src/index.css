@@ -15,8 +15,8 @@ body {
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 	position: relative;
 	background-color: rgb(95, 95, 95);
 	font-weight: 500;
